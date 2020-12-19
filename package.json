@@ -1,0 +1,29 @@
+{
+  "name": "gulp-compo-autoprefixer",
+  "version": "0.0.2",
+  "description": "Gulp plugin for using the Autoprefixer in Compo.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "compojs",
+    "compo",
+    "js",
+    "autoprefixer"
+  ],
+  "author": {
+    "name": "compojs.ru",
+    "email": "compo.js@mail.ru"
+  },
+  "license": "ISC",
+  "browserslist": [
+    "defaults"
+  ],
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1",
+    "through2": "^4.0.2"
+  }
+}
