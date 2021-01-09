@@ -1,6 +1,6 @@
 # gulp-compo-autoprefixer
 
-**Gulp** plugin for using the **Autoprefixer** in **[Compo.js](http://compojs.ru/)**
+**Gulp** plugin for using the **Autoprefixer** in **[CompoJS](http://compojs.ru/)**
 
 ## Install
 
