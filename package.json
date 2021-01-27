@@ -1,6 +1,6 @@
 {
   "name": "gulp-compo-autoprefixer",
-  "version": "3.5.1",
+  "version": "3.5.2",
   "description": "Gulp plugin for using the Autoprefixer in Compo.js",
   "main": "index.js",
   "scripts": {
