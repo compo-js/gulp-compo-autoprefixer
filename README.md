@@ -74,11 +74,6 @@ function components() {
 </c-component1>
 ```
 
-## Download
-
-- **[new-autoprefixer.zip](http://compojs.ru/dist/files/new-autoprefixer.zip)**
-
-
 ## Author
 
 - **[compojs.ru](http://www.compojs.ru)**
